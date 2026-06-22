@@ -32,12 +32,13 @@
 | **Gold** | Aggregated, business-ready | Azure Databricks → Synapse |
 
 ### Data Pipeline Flow
+```
 SQL Server (on-premise)
 → Azure Data Factory (orchestration, Self-Hosted Integration Runtime)
 → Azure Data Lake Gen2 (Bronze → Silver → Gold)
 → Azure Synapse Analytics (serving layer)
 → Microsoft Power BI (dashboard)
-
+```
 
 ### Key Features
 
