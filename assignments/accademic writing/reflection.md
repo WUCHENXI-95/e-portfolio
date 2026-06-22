@@ -13,7 +13,7 @@
 | **Team** | Lau Yee Wen, Poh Lok Yee, Wu Chenxi |
 | **Period** | 23 March – 16 April 2026 |
 
-[📄 View Full Report (PDF)](./assignment1-report.pdf)
+[📄 View Full Report (PDF)](./academic_writing-report.pdf)
 
 ---
 
