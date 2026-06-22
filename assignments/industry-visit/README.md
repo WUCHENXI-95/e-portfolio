@@ -101,10 +101,6 @@ The SAP session was a bonus. I had never thought about ERP consulting as a caree
 - The visit was mostly presentation-based. I would have liked to see a live demo of their Databricks workspace or Power BI dashboards in action.
 - Time was limited — I did not get to ask about their data quality monitoring process in detail.
 
-### What I Plan to Do
-
-- Build a mini version of the PPG inventory pipeline on GitHub using the same Medallion structure, so I have a practical demo for my portfolio.
-- Prepare better questions before future visits by researching the company's public technical content first.
 
 ---
 
