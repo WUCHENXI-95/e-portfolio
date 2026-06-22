@@ -19,7 +19,7 @@
 
 | Photo 1 | Photo 2 |
 |---------|---------|
-| ![Visit Photo 1](./industry-visit-photo1.jpg) | ![Visit Photo 2](./industry-visit-photo2.jpg) |
+| ![Visit Photo 1](./industry-visit-photo1.jpeg) | ![Visit Photo 2](./industry-visit-photo2.jpeg) |
 
 ---
 
